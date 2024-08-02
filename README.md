@@ -4,10 +4,10 @@ Apache Kafka is a popular distributed streaming platform that allows you to buil
 ## Spring boot Kafka Integration
 
 ### Gradle Dependency
-dependencies {
+`dependencies {
 implementation 'org.springframework.kafka:spring-kafka'
 implementation 'org.springframework.boot:spring-boot-starter-web'
-}
+}`
 
 ### Configuring Kafka in Spring Boot
 - Update Application.yaml
